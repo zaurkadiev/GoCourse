@@ -1,0 +1,25 @@
+mode: set
+hw4_test_coverage/client.go:67.80,71.19 2 1
+hw4_test_coverage/client.go:74.2,74.20 1 1
+hw4_test_coverage/client.go:77.2,77.20 1 1
+hw4_test_coverage/client.go:82.2,95.16 10 1
+hw4_test_coverage/client.go:101.2,104.25 3 1
+hw4_test_coverage/client.go:121.2,123.16 3 1
+hw4_test_coverage/client.go:127.2,128.28 2 1
+hw4_test_coverage/client.go:135.2,135.21 1 1
+hw4_test_coverage/client.go:71.19,73.3 1 1
+hw4_test_coverage/client.go:74.20,76.3 1 1
+hw4_test_coverage/client.go:77.20,79.3 1 1
+hw4_test_coverage/client.go:95.16,96.54 1 1
+hw4_test_coverage/client.go:99.3,99.50 1 1
+hw4_test_coverage/client.go:96.54,98.4 1 1
+hw4_test_coverage/client.go:105.31,106.44 1 1
+hw4_test_coverage/client.go:107.38,108.53 1 1
+hw4_test_coverage/client.go:109.29,112.17 3 1
+hw4_test_coverage/client.go:115.3,115.44 1 1
+hw4_test_coverage/client.go:118.3,118.73 1 1
+hw4_test_coverage/client.go:112.17,114.4 1 1
+hw4_test_coverage/client.go:115.44,117.4 1 1
+hw4_test_coverage/client.go:123.16,125.3 1 1
+hw4_test_coverage/client.go:128.28,131.3 2 1
+hw4_test_coverage/client.go:131.8,133.3 1 1
